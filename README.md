@@ -4,8 +4,8 @@
 
 - <b>Penetration Test and Report</b>
   - [Penetration Test and Report](https://github.com/karl1906/Penetration-Test-Report.git)
-- <b>Microsoft Azure Web Application (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](README.md) <b><i>(Potentially NSFW)</b></i>
+- <b>Microsoft Azure Web Application (networking, network security, cryptography, terminal, cloud, and web development)</b>
+  - [Azure Web App](README.md) <b><i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
